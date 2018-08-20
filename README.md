@@ -7,6 +7,10 @@ initialized using [create-react-app](https://github.com/facebook/create-react-ap
 is the fantastic [material-ui](https://github.com/mui-org/material-ui). Lastly, [axios](https://github.com/axios/axios)
 is implemented for communicating with the GitHub API.
 
+**Demo**
+
+![screen recording 2018-08-20 at 10 28 am](https://user-images.githubusercontent.com/1144477/44346566-44a2b980-a464-11e8-93f7-6c5c49039cbd.gif)
+
 **Limitations**
 
 In an effort to limit the scope, this project uses local React state and the test coverage is fairly trivial.
